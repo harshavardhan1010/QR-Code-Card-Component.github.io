@@ -46,6 +46,7 @@ body {
   .card {
     width: 100%;
     max-width: 430px;
+    padding-bottom:0;
   }
   .heading {
     font-size: 1.7rem;
