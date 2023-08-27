@@ -34,8 +34,7 @@ body {
 .heading {
   font-weight: bold;
   font-size: 1.3rem;
-  color: #1e2f51;
-  padding: 1em 1em 0.5em;
+  padding: 0 1em 0;
 }
 .content {
   font-weight: lighter;
@@ -46,11 +45,9 @@ body {
   .card {
     width: 100%;
     max-width: 430px;
-    padding-bottom:0;
   }
   .heading {
-    font-size: 1.7rem;
-    padding-top: 0;
+    font-size: 1.5rem;
   }
   .content {
     font-size: 1.2rem;
